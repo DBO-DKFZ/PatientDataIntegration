@@ -1,4 +1,5 @@
-import configs, functions_v2, dataset_classes_v1, mymodels 
+import configs # configs include the path to the images, patient data and trained models; the config-file is not included in this repository 
+import functions_v2, dataset_classes_v1, mymodels # look in folder "PDI_classes_and_functions" for these scripts 
 
 import os
 import torch
