@@ -3,7 +3,7 @@ Code is related to the publication "Combining CNN-based Histologic Whole Slide I
 
 - patient_data_integration.ipynb: jupyter notebook that shows how the results of the publication are achieved
 - training_scripts: Folder contains all scripts used for training the models of the publication
-- PDI_classes_and_functions: folder contains all classes (i.g. implementations of the fusion models) and functions 
+- PDI_classes_and_functions: folder contains all classes (e.g. implementations of the fusion models) and functions 
 
 Background: Clinicians and pathologists traditionally use patient data in addition to clinical examination to support their diagnoses. 
 
