@@ -5,6 +5,8 @@ The repository provides all relevant code related to the publication "Combining 
 - training_scripts: folder contains all scripts used for training the models of the publication
 - PDI_classes_and_functions: folder contains all classes (e.g. implementations of the fusion models) and functions 
 
+Unfortunately, we cannot share the data publicly due to privacy and ethical restriction. However, feel free to contact the corresponding author and request for permission.
+
 <strong>Abstract</strong>
 
 <strong>Background</strong>: Clinicians and pathologists traditionally use patient data in addition to clinical examination to support their diagnoses. 
