@@ -1,4 +1,3 @@
-# Functions work with BCE instead of Cross Entropy loss 
 import os
 import numpy as np
 import pandas as pd
