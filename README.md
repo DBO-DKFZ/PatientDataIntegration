@@ -1,7 +1,7 @@
 # Combining CNN-based Histologic Whole Slide Image Analysis and Patient Data to Improve Skin Cancer Classification
 The repository provides all relevant code related to the publication "Combining CNN-based Histologic Whole Slide Image Analysis and Patient Data to Improve Skin Cancer Classification"
 
-- patient_data_integration.ipynb: jupyter notebook that shows how the results of the publication are achieved
+- patient_data_integration.ipynb: jupyter notebook that shows how the results of the publication were achieved
 - training_scripts: folder contains all scripts used for training the models of the publication
 - PDI_classes_and_functions: folder contains all classes (e.g. implementations of the fusion models) and functions 
 
