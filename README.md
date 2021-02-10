@@ -1,10 +1,11 @@
 # Combining CNN-based Histologic Whole Slide Image Analysis and Patient Data to Improve Skin Cancer Classification
-Code is related to the publication "Combining CNN-based Histologic Whole Slide Image Analysis and Patient Data to Improve Skin Cancer Classification"
+The repository provides all relevant code related to the publication "Combining CNN-based Histologic Whole Slide Image Analysis and Patient Data to Improve Skin Cancer Classification"
 
 - patient_data_integration.ipynb: jupyter notebook that shows how the results of the publication are achieved
-- training_scripts: Folder contains all scripts used for training the models of the publication
+- training_scripts: folder contains all scripts used for training the models of the publication
 - PDI_classes_and_functions: folder contains all classes (e.g. implementations of the fusion models) and functions 
 
+<strong>Abstract</strong>
 <strong>Background</strong>: Clinicians and pathologists traditionally use patient data in addition to clinical examination to support their diagnoses. 
 
 <strong>Objectives</strong>: We investigated whether a combination of histologic whole slides image (WSI) analysis based on convolutional neural networks (CNNs) and commonly available patient data (age, sex and anatomical site of the lesion) in a binary melanoma/nevus classification task could increase the performance compared to CNNs alone.
