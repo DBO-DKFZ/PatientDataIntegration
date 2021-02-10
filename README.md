@@ -6,6 +6,7 @@ The repository provides all relevant code related to the publication "Combining 
 - PDI_classes_and_functions: folder contains all classes (e.g. implementations of the fusion models) and functions 
 
 <strong>Abstract</strong>
+
 <strong>Background</strong>: Clinicians and pathologists traditionally use patient data in addition to clinical examination to support their diagnoses. 
 
 <strong>Objectives</strong>: We investigated whether a combination of histologic whole slides image (WSI) analysis based on convolutional neural networks (CNNs) and commonly available patient data (age, sex and anatomical site of the lesion) in a binary melanoma/nevus classification task could increase the performance compared to CNNs alone.
