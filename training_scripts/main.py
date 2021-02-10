@@ -1,7 +1,7 @@
 from argparse import Namespace 
 from jsonargparse import ArgumentParser, ActionConfigFile
-from ExperimentSetup_v2 import Experiment 
-import configs
+from ExperimentSetup_v2 import Experiment # look in folder "PDI_classes_and_functions" for these scripts 
+import configs # configs include the path to the images, patient data and trained models; the config-file is not included in this repository 
 
 def main(hparams):
     
